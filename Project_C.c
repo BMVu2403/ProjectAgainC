@@ -1,3 +1,5 @@
+// mk và tk là 1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
